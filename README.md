@@ -1,18 +1,184 @@
-# React + Vite
+# 💰 CashOps – AI-Powered Financial Decision System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CashOps is a semi-autonomous financial intelligence system designed to help small businesses make **smart, short-term cash flow decisions**.
 
-Currently, two official plugins are available:
+Instead of just showing data, it **analyzes your financial state and suggests actionable decisions** using AI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+### 📊 Financial Dashboard
 
-Note: This will impact Vite dev & build performances.
+* Real-time view of:
 
-## Expanding the ESLint configuration
+  * Cash balance
+  * Obligations (payables)
+  * Receivables
+* Visual indicators of financial health
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ⚠️ Constraint & Risk Detection
+
+* Identifies when obligations exceed available cash
+* Calculates:
+
+  * Shortfall
+  * Runway (days before cash runs out)
+  * Liquidity ratio
+
+### 🧠 AI Decision Engine
+
+* Integrated AI chatbot (Gemini API)
+* Provides:
+
+  * Payment prioritization
+  * Risk explanations
+  * Actionable financial advice
+
+### ⚡ What-If Simulator
+
+* Simulate delaying payments
+* Instantly see impact on:
+
+  * Cash runway
+  * Financial health score
+
+### 📄 Multi-Source Financial Input
+
+* Supports:
+
+  * Invoices
+  * Expenses
+  * Receivables
+  * Manual entries
+
+### 🔐 Authentication System
+
+* Login / Signup system using local storage
+* Demo mode with sample data
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* React 18
+* JavaScript (ES6+)
+* CSS-in-JS (inline styling)
+
+### Backend
+
+* Node.js
+* Express
+
+### AI / LLM
+
+* Google Gemini API
+
+### State Management
+
+* React Hooks (useState, useEffect, useRef)
+
+### Build Tool
+
+* Vite / Create React App
+
+---
+
+## 🧱 Architecture Overview
+
+```
+Frontend (React UI)
+        ↓
+Backend API (Node.js / Express)
+        ↓
+Gemini API (AI reasoning)
+```
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots here after uploading to GitHub
+
+```
+![Dashboard](./screenshots/dashboard.png)
+![Simulator](./screenshots/simulator.png)
+```
+
+---
+
+## ▶️ How to Run Locally
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+### 2. Install dependencies
+
+```
+npm install
+```
+
+### 3. Setup environment variables
+
+Create a `.env` file:
+
+```
+GEMINI_API_KEY=your_api_key_here
+```
+
+### 4. Run the project
+
+```
+npm start
+```
+
+---
+
+## 🧪 Demo Mode
+
+* No signup required
+* Preloaded financial data
+* Explore all features instantly
+
+---
+
+## 📌 Use Case
+
+Small businesses often:
+
+* Rely only on current bank balance
+* Miss upcoming obligations
+* Make reactive decisions
+
+CashOps solves this by:
+
+* Modeling financial state
+* Detecting risks early
+* Suggesting next best actions
+
+---
+
+## 📈 Future Improvements
+
+* Database integration (MongoDB / PostgreSQL)
+* Real bank API integrations
+* Advanced forecasting (ML models)
+* Multi-user collaboration
+
+---
+
+## 👨‍💻 Author
+
+**R L Nagindhar Sachein**
+
+---
+
+## ⭐ If you like this project
+
+Give it a star ⭐ on GitHub!
