@@ -151,22 +151,22 @@ npm start
 ## 📸 Screenshots
 
 ### 📊 Dashboard
-<img src="./screenshots/dashboard.png" width="700"/>
+<img src="./screenshots/dashboard.png" width="800"/>
 
 ### 🤖 AI Chatbot
-<img src="./screenshots/chatbot.png" width="700"/>
+<img src="./screenshots/chatbot.png" width="800"/>
 
 ### 📈 Forecast View
-<img src="./screenshots/forecast.png" width="700"/>
+<img src="./screenshots/forecast.png" width="800"/>
 
 ### 📥 Data Ingestion
-<img src="./screenshots/ingest.png" width="700"/>
+<img src="./screenshots/ingest.png" width="800"/>
 
 ### 📋 Obligations Tracking
-<img src="./screenshots/obligations.png" width="700"/>
+<img src="./screenshots/obligations.png" width="800"/>
 
 ### ⚡ AI Actions
-<img src="./screenshots/aiactions.png" width="700"/>
+<img src="./screenshots/aiactions.png" width="800"/>
 
 ## 📌 Use Case
 
