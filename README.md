@@ -148,6 +148,17 @@ npm start
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Simulator
+![Simulator](./screenshots/simulator.png)
+
+### Login Page
+![Login](./screenshots/login.png)
+
 ## 📌 Use Case
 
 Small businesses often:
