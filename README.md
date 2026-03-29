@@ -150,14 +150,23 @@ npm start
 
 ## 📸 Screenshots
 
-### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+### 📊 Dashboard
+<img src="./screenshots/dashboard.png" width="700"/>
 
-### Simulator
-![Simulator](./screenshots/simulator.png)
+### 🤖 AI Chatbot
+<img src="./screenshots/chatbot.png" width="700"/>
 
-### Login Page
-![Login](./screenshots/login.png)
+### 📈 Forecast View
+<img src="./screenshots/forecast.png" width="700"/>
+
+### 📥 Data Ingestion
+<img src="./screenshots/ingest.png" width="700"/>
+
+### 📋 Obligations Tracking
+<img src="./screenshots/obligations.png" width="700"/>
+
+### ⚡ AI Actions
+<img src="./screenshots/aiactions.png" width="700"/>
 
 ## 📌 Use Case
 
