@@ -100,12 +100,23 @@ Gemini API (AI reasoning)
 
 ## 📸 Screenshots
 
-> Add screenshots here after uploading to GitHub
+### 📊 Dashboard
+<img src="./screenshots/dashboard.png" width="800"/>
 
-```
-![Dashboard](./screenshots/dashboard.png)
-![Simulator](./screenshots/simulator.png)
-```
+### 🤖 AI Chatbot
+<img src="./screenshots/chatbot.png" width="800"/>
+
+### 📈 Forecast View
+<img src="./screenshots/forecast.png" width="800"/>
+
+### 📥 Data Ingestion
+<img src="./screenshots/ingest.png" width="800"/>
+
+### 📋 Obligations Tracking
+<img src="./screenshots/obligations.png" width="800"/>
+
+### ⚡ AI Actions
+<img src="./screenshots/aiactions.png" width="800"/>
 
 ---
 
@@ -114,8 +125,8 @@ Gemini API (AI reasoning)
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/MANDO-lab/cashops.git
+cd cashops
 ```
 
 ### 2. Install dependencies
@@ -147,26 +158,6 @@ npm start
 * Explore all features instantly
 
 ---
-
-## 📸 Screenshots
-
-### 📊 Dashboard
-<img src="./screenshots/dashboard.png" width="800"/>
-
-### 🤖 AI Chatbot
-<img src="./screenshots/chatbot.png" width="800"/>
-
-### 📈 Forecast View
-<img src="./screenshots/forecast.png" width="800"/>
-
-### 📥 Data Ingestion
-<img src="./screenshots/ingest.png" width="800"/>
-
-### 📋 Obligations Tracking
-<img src="./screenshots/obligations.png" width="800"/>
-
-### ⚡ AI Actions
-<img src="./screenshots/aiactions.png" width="800"/>
 
 ## 📌 Use Case
 
